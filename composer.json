@@ -1,5 +1,5 @@
 {
-    "name": "xenon/laravelhtml-collective",
+    "name": "markuspaks/laravelcollective-html",
     "description": "HTML and Form Builders for the Laravel Framework extends from Laravel Collective",
     "license": "MIT",
     "homepage": "https://laravelcollective.com",
